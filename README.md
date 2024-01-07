@@ -10,8 +10,8 @@ I have created a single-page weather dashboard that takes in a city and when you
 4. OpenWeather API
 5. DayJS
    
-## Installation
-To use this application you can either git clone and put it as a local repository or you can click the link and type in the city
+## Deployment
+[Click Here To View Application!](https://jeremyethridge.github.io/Weather-Dashboard/)
 
 ## Screenshot
 ![WeatherApp](https://github.com/Jeremyethridge/Weather-Dashboard/assets/128623643/831ce916-9279-4377-8a70-4c3056acdbdf)
